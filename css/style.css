@@ -240,6 +240,7 @@ img {
     justify-content: space-between;
     /* margin: auto; */
     margin-bottom: 94px;
+    padding: 0px;
 }
     
 .item-title {
@@ -270,12 +271,14 @@ img {
 .container .about {
 display: flex;
 justify-content: center;
+
 }
 
 
 .container .team {
     display: flex;
     justify-content: center;
+    
     }
      
 .about,
